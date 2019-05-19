@@ -18,8 +18,8 @@ If the ship collides with the terrain, a smoke particle effect should spawn on t
 
 
 ## Controls
-Use WASD to apply thrust forces to the ship
-Use IJKL to rotate the ship
-Press 1 to go to "basic" mode
-Press 2 to go to "collision spheres" mode
-Press 3 to go to "AABB lines" mode
+* Use WASD to apply thrust forces to the ship
+* Use IJKL to rotate the ship
+* Press 1 to go to "basic" mode
+* Press 2 to go to "collision spheres" mode
+* Press 3 to go to "AABB lines" mode
