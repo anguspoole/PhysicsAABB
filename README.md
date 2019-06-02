@@ -3,6 +3,10 @@ This project demonstrates some physics done without bullet, and uses AABBs
 
 By: Angus Poole
 
+## Video
+
+https://www.youtube.com/watch?v=o0E2dEJkCzE
+
 ## About
 Build/Compile in Release/x86.
 
